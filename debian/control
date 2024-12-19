@@ -1,7 +1,7 @@
 Source: app
 Section: utils
 Priority: optional
-Maintainer: Anna Tho annathorzevskaa7@gmail.com
+Maintainer: Anna Tho <annathorzevskaa7@gmail.com>
 Build-Depends: debhelper (>= 9), g++
 Standards-Version: 3.9.6
 

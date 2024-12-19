@@ -1,0 +1,13 @@
+Package: app-dbgsym
+Package-Type: ddeb
+Source: app
+Version: 1.0-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Anna Tho <annathorzevskaa7@gmail.com>
+Installed-Size: 28
+Depends: app (= 1.0-1)
+Section: debug
+Priority: optional
+Description: debug symbols for app
+Build-Ids: c024d126fe57cfeb27ba08912bc5bddc687cc26b
